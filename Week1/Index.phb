@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PHP Practice</title>
+</head>
+<body>
+    <?php
+        //Echo - Display the output
+        echo "Welcome to PHP;";
+
+        //use parenthesis is optional
+        echo ("Welcome to PHP;");
+
+        //print also use the output
+        print "Welcome to PHP;";
+
+        // use parenthesis is optional
+        print ("Welcome to PHP;");
+    ?>
+</body>
+</html>
