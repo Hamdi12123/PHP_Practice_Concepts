@@ -13,7 +13,7 @@ if ($age >= 18) {
 } else {
     echo "child";
 }
-echo "<br>";
+echo "<br><br>";
 
 $marks = 100;
 switch ($marks) {
@@ -28,7 +28,7 @@ switch ($marks) {
 
 
 
-echo"<br>";
+echo"<br><br>";
 
 $a=15;
 $b=42;
@@ -47,7 +47,7 @@ echo "Greatest ; $greatest <br>";
 echo "Smallest ; $smallest <br>";
 
 
-echo"<br>";
+echo"<br><br>";
 
 
 
@@ -77,7 +77,7 @@ echo "</table>";
 
 
 
-echo"<br>";  
+echo"<br><br>";  
 
 $Mult = array(
     array(10, 90, 100),
@@ -94,7 +94,7 @@ if (in_array(1, $Mult[0])) {
 
 
 //Create function in php
-echo"<br>";
+echo"<br><br>";
 function sum($x, $y)
 {
     //echo "welcome the first example in function";
