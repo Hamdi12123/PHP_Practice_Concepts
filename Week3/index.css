@@ -1,0 +1,16 @@
+
+
+form {
+        width : 200px;
+        padding: 25px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+
+    }
+
+    label{
+        display: block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    

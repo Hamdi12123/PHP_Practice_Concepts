@@ -23,7 +23,10 @@ switch ($marks) {
     default:
         echo "Waa la waayay";
         break;
+
 }
+
+
 
 
 
@@ -100,11 +103,15 @@ function sum($x, $y)
     //echo "welcome the first example in function";
     $z=$x+$y;
     echo $z;
-    //return $z;
+    //return $
+    
+    
 }
 
 //Calling function 
  sum(10,90);
+
+ 
 
 
 
